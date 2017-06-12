@@ -1,5 +1,2 @@
 # WeShareCode
-
-```
-sh run.sh
-```
+Not ready yet.
